@@ -1,0 +1,18 @@
+﻿Versão 1.0
+Desenvolvimento aplicativo
+
+Versão 1.1
+Correção de Bugs com relação a Delay no envio da informação
+
+Versão 1.2
+Mudança de Layout e adição de botões (imprimir-não imprimir e reprint)
+
+Versão 1.3
+Adição do cliente HP
+
+Versão 1.4
+Adição de porta Serial (COM4)
+
+
+Versão 1.5
+Redução velocidade  (COM2) para 9600
